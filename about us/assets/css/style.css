@@ -3,7 +3,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Nunito', serif;
+  font-family: 'Nunito', san-serif;
   color: rgb(57 69 151);
 }
 
@@ -18,7 +18,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Playfair Display", sans-serif;
 }
 #saberfeedback_button span{
   background: rgb(44 33 132);
