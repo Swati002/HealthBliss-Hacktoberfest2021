@@ -1512,11 +1512,11 @@ p{
 
 .contact .php-email-form button[type="submit"] {
   background: #3122b2;
-  border: 2px solid white;
+  border: 1px solid #efefef;
   padding: 10px 24px;
   color: #fff;
   transition: 0.4s;
-  border-radius: 33px;
+  border-radius: 5px;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
